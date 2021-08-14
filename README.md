@@ -12,4 +12,4 @@
 In the event an invalid input (less than 8, more than 128, not a number) is entered for the purposes of determining password length, the user choice prompts will be ignored and the password will return as undefined.
 
 # Link to deployed application
-<a href=""></a>
+<a href="https://batorasan.github.io/PasswordGenerator/">Click here</a>
